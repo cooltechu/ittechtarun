@@ -20,8 +20,7 @@ copy the payment id/order id
 
 Now, Please raise for the terraform course videos access by using the below link
 
-<h1>[Terraform_Request_link](https://docs.google.com/presentation/d/1AdhdX3irjrR4KIvaiYTtuHAu_Kh0k9u2Al92faxR13A/)</h1>
-
+[Terraform_Request_link](https://docs.google.com/presentation/d/1AdhdX3irjrR4KIvaiYTtuHAu_Kh0k9u2Al92faxR13A/)
 
 I will verify my end and provide access asap.
 
