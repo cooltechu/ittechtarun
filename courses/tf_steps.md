@@ -11,13 +11,16 @@ You have to raise a request for the terraform videos using the below link.
 
 Please add your payment id and your email id in the request section
 
-check the below two pics
+check the below pics.
+Download the pdf which contains the password to open presetation slides.
+![](imgs/order_confirmation.png)
+copy the payment id/order id
 ![](imgs/payment_confirm.png)
 ![](imgs/raise_request.png)
 
 Now, Please raise for the terraform course videos access by using the below link
 
-[Terraform_Request_link](https://docs.google.com/presentation/d/1AdhdX3irjrR4KIvaiYTtuHAu_Kh0k9u2Al92faxR13A/)
+<h1>[Terraform_Request_link](https://docs.google.com/presentation/d/1AdhdX3irjrR4KIvaiYTtuHAu_Kh0k9u2Al92faxR13A/)</h1>
 
 
 I will verify my end and provide access asap.
