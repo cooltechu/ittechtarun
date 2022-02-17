@@ -22,7 +22,7 @@
   - Terraform Modules/Registry/Workspaces
  
   
-![](tf_topics.png)
+![](imgs/tf_topics.png)
 
 [Demo-Introduction To Terraform](https://youtu.be/MfPzmNQbUzg)
 
