@@ -30,7 +30,7 @@
 
 ![](imgs/price.png)
 
-[![Terraform Course](imgs/buy_now.PNG)](https://ittechtarun.myinstamojo.com/product/3133663/terraform-course-in-telugu/ "Click Here to Buy")
+[![Terraform Course](imgs/buy_now.PNG)](https://ittechtarun.myinstamojo.com/product/3133663/terraform-course-in-telugu "Click Here to Buy")
 
 Once you have enrolled in the course, you will get access to the Terraform Recorded Sessions, Terraform_codes, Presentations, Useful links. You can watch those and learn terraform at your convenient timings.
 

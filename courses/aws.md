@@ -26,4 +26,6 @@
 
 All videos are completely free you can check those videos in my youtube channel, incase If you would like support my videos you can use below link.
 
-[Click_Here_AWS_Course](https://ittechtarun.mojo.page/aws-cloud-videos "Click Here For videos")
+If you want the presenation files and videos, check below link.
+
+[Click_Here_AWS_Course](https://ittechtarun.myinstamojo.com/product/3137102/aws-cloud-course-in-telugu "Click Here For buy")
