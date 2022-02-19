@@ -28,7 +28,7 @@
 
 <h3><b>Enroll now at Just <i>1999rs</i> (Limited Time Offer for few members)</h3></b>
 
- ![](imgs/price.PNG)
+![](imgs/price.PNG)
 
 [![Terraform Course](imgs/buy_now.PNG)](https://ittechtarun.myinstamojo.com/product/3133663/terraform-course-in-telugu "Click Here to Buy")
 
