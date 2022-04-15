@@ -31,9 +31,9 @@
 ![](imgs/price.PNG)
 
  <b>Use the GFRIDAY code for 50% off</b><br/>
-[![Terraform Course](imgs/buy_now.PNG)](https://ittechtarun.mojo.page/terraform-course-in-telugu "Click Here") -
+[![Terraform Course](imgs/buy_now.PNG)](https://ittechtarun.mojo.page/terraform-course-in-telugu "Click Here to Buy") -
 
-<br/>
+<br/><br/>
  
 [![Terraform Course](imgs/buy_now.PNG)](https://ittechtarun.myinstamojo.com/product/3133663/terraform-course-in-telugu "Click Here to Buy")
 
