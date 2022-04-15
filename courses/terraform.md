@@ -30,7 +30,10 @@
 
 ![](imgs/price.PNG)
 
+ <b>Use the GFRIDAY code for 50% off</b>
+[![Terraform Course](imgs/buy_now.PNG)](https://ittechtarun.mojo.page/terraform-course-in-telugu "Click Here") -
 
+ 
 [![Terraform Course](imgs/buy_now.PNG)](https://ittechtarun.myinstamojo.com/product/3133663/terraform-course-in-telugu "Click Here to Buy")
 
 Once you have enrolled in the course, you will get access to the Terraform Recorded Sessions, Terraform_codes, Presentations, Useful links. You can watch those and learn terraform at your convenient timings.
