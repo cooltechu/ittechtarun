@@ -34,6 +34,7 @@
 [![Terraform Course](imgs/buy_now.PNG)](https://ittechtarun.mojo.page/terraform-course-in-telugu "Click Here to Buy") -
 
 <br/><br/>
+other link 
  
 [![Terraform Course](imgs/buy_now.PNG)](https://ittechtarun.myinstamojo.com/product/3133663/terraform-course-in-telugu "Click Here to Buy")
 
