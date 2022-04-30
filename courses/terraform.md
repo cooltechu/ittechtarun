@@ -30,7 +30,7 @@
 
 ![](imgs/price.PNG)
 
- <b>Use the GFRIDAY code for 50% off</b><br/>
+ <b>Use the MAYDAY code for 50% off</b><br/>
 [![Terraform Course](imgs/buy_now.PNG)](https://ittechtarun.mojo.page/terraform-course-in-telugu "Click Here to Buy") -
 
 <br/><br/>
